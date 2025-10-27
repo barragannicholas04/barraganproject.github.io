@@ -5,4 +5,4 @@ Hello! My name is Nicholas Barragan and I am originally from Illinois where I ea
 
 My resume is here if you would like to take a look: learned how to open html
 
-<a href="about.html" title="About Me">About Me</a>
+/*<a href="about.html" title="About Me">About Me</a>*/
